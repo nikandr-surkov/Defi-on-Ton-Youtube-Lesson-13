@@ -4,4 +4,4 @@
 Welcome to the thirteenth episode of the "Building DeFi on TON" series! In this tutorial, we cover how to define and use functions in your smart contracts using Tact on the TON blockchain.
 
 ## 📺 YouTube Video
-Watch the full video tutorial here: [Building DeFi on TON | 13](https://www.youtube.com/link-to-video)
+Watch the full video tutorial here: [Building DeFi on TON | 13](https://youtu.be/NMakot_XICA)
